@@ -11,7 +11,7 @@
 
 #### 💻 &nbsp; About Me:
 <p align="center">
-  <h4>I'm 24 years old, an Enthusiastic and detail-oriented Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. <br/>
+  <h4>I'm 24 years old, an Enthusiastic and detail-oriented Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. 
     Adept at creating visually appealing and intuitive websites. Proficient in HTML, CSS, JavaScript, Bootstrap, and React.js. Passionate about leveraging technology to enhance user experiences.
 </h4>
 </p>
