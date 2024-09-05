@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
    <a href="https://portfolio-khaled-theta.vercel.app/">
-     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" title="Portfolio" alt="Portfolio" width="40" height="40"/>
+     <img src="[https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png](https://media.licdn.com/dms/image/v2/C4E12AQGO1XvoQbXQtw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1531221410081?e=1730937600&v=beta&t=8d6NGbgNisi3RENM-7dtVVCFQ_h_6ftrsbdNxL396U4)" title="Portfolio" alt="Portfolio" width="40" height="40"/>
    </a>
 </div>
 
@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/axios/axios/master/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
+  <img src="[https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png](https://logosandtypes.com/wp-content/uploads/2021/04/framer-motion.svg)" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
