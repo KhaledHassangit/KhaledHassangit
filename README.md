@@ -25,16 +25,6 @@
 
 ---
 
-### Frontend:
-  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-
----
-
-### Languages and Tools:
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
