@@ -11,12 +11,12 @@
 
 #### 💻 &nbsp; About Me:
 <p align="center">
-  <h3>I'm 24 years old, an Enthusiastic and detail-oriented Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University.</h3>
+  <h4>I'm 24 years old, an Enthusiastic and detail-oriented Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. <br/>
+    Adept at creating visually appealing and intuitive websites. Proficient in HTML, CSS, JavaScript, Bootstrap, and React.js. Passionate about leveraging technology to enhance user experiences.
+</h4>
 </p>
 
-<p>
-  Adept at creating visually appealing and intuitive websites. Proficient in HTML, CSS, JavaScript, Bootstrap, and React.js. Passionate about leveraging technology to enhance user experiences.
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
 
