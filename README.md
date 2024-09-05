@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  <h3>👨 Khaled Hassan | 💻 Front-End Developer | 
+  <h3> Khaled Hassan | 💻 Front-End Developer | 
      <span style="display: inline-flex; align-items: center;">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="20" height="20" style="vertical-align: middle;"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="15" height="15" style="vertical-align: middle;"/>
        &nbsp;Alexandria, Egypt
      </span>
   </h3>
