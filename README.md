@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>👨 Khaled Hassan | 💻 Front-End Developer | 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="20" height="20"/> Alexandria, Egypt
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="30" height="30"/> Alexandria, Egypt
   </h3>
 </div>
 
