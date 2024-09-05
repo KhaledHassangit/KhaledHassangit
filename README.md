@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
    <a href="https://portfolio-khaled-theta.vercel.app/" style="text-decoration: none;">
-      <span style="color: white; font-weight: bold;">
+      <span style="color: white; text-decoration: none; font-weight: bold;">
          Portfolio
       </span>
    </a>
