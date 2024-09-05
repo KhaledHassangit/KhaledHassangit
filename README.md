@@ -1,9 +1,10 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
-   <a href="https://portfolio-khaled-theta.vercel.app/">
-     <img src="https://www.vhv.rs/dpng/d/247-2473909_portfolio-logo-png-portfolio-text-png-transparent-png.png" title="Portfolio" alt="Portfolio" width="100" height="100"/>
+   <a href="https://portfolio-khaled-theta.vercel.app/" style="color: white; text-decoration: none;">
+      Portfolio
    </a>
 </div>
+
 
 <div align="center">
   <h3> Khaled Hassan | 💻 Front-End Developer | 
