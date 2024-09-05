@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
-   <a href="https://portfolio-khaled-theta.vercel.app/" style="color: white; text-decoration: none;">
+   <a href="https://portfolio-khaled-theta.vercel.app/" style="color: white; text-decoration: none; font-weight: bold;">
       Portfolio
    </a>
 </div>
