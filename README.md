@@ -23,8 +23,7 @@
 </h4>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledHassangit)](https://github.com/KhaledHassangit/github-readme-stats)
 #### :hammer_and_wrench: Languages and Tools:
 <div>
 
