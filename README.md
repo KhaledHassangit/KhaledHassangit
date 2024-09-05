@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
    <a href="https://portfolio-khaled-theta.vercel.app/">
-     <img src="https://ubiquo.io/wp-content/uploads/sites/24/2018/11/creative-agency-home-transparent-portfolio-logo-1.png" title="Portfolio" alt="Portfolio" width="40" height="40"/>
+     <img src="https://ubiquo.io/wp-content/uploads/sites/24/2018/11/creative-agency-home-transparent-portfolio-logo-1.png" title="Portfolio" alt="Portfolio" width="80" height="60"/>
    </a>
 </div>
 
