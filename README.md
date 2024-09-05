@@ -50,5 +50,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KhaledHassangit&icon=5&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=KhaledHassan&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
