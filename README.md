@@ -1,12 +1,12 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
    <a href="https://portfolio-khaled-theta.vercel.app/">
-     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" title="Portfolio" alt="Portfolio" width="40" height="40"/>
+     <img src="https://media.licdn.com/dms/image/v2/C4E12AQGO1XvoQbXQtw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1531221410081?e=1730937600&v=beta&t=8d6NGbgNisi3RENM-7dtVVCFQ_h_6ftrsbdNxL396U4" title="Portfolio" alt="Portfolio" width="40" height="40"/>
    </a>
 </div>
 
 <div align="center">
-  <h3>🙎 Khaled Hassan | 💻 Front-End Developer | 🛸 Alexandria, Egypt</h3>
+  <h3> Khaled Hassan | 💻 Front-End Developer | 🛸 Alexandria, Egypt</h3>
 </div>
 
 #### 💻 &nbsp; About Me:
