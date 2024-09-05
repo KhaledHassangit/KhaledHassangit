@@ -1,14 +1,14 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://portfolio-khaled-theta.vercel.app/">Khaled</a></h1>
    <a href="https://portfolio-khaled-theta.vercel.app/">
-     <img src="https://ubiquo.io/wp-content/uploads/sites/24/2018/11/creative-agency-home-transparent-portfolio-logo-1.png" title="Portfolio" alt="Portfolio" width="100" height="100"/>
+     <img src="https://www.vhv.rs/dpng/d/247-2473909_portfolio-logo-png-portfolio-text-png-transparent-png.png" title="Portfolio" alt="Portfolio" width="100" height="100"/>
    </a>
 </div>
 
 <div align="center">
   <h3> Khaled Hassan | 💻 Front-End Developer | 
      <span style="display: inline-flex; align-items: center;">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="15" height="15" style="vertical-align: middle;"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alexandria.svg" title="Alexandria" alt="Alexandria Flag" width="20" height="20" style="vertical-align: middle;"/>
        &nbsp;Alexandria, Egypt
      </span>
   </h3>
