@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hello there, I'm <span style="text-decoration: none; color: inherit;">Khaled</span></h1>
   <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
 </div>
