@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHassangit&size_weight=0.5&count_weight=0.5)
 
-#### :hammer_and_wrench: Languages and Tools:
+#### :hammer_and_wrench: Skills and Tools:
 <div>
 
 ---
