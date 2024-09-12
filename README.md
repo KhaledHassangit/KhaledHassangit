@@ -47,7 +47,7 @@
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-  <img src="https://silvawebdesigns.com/wp-content/uploads/2020/10/useful-sass-scss-mixins-for-every-website.jpg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://camo.githubusercontent.com/f0a750ad8250cf711f7a1da710cfc83a9c8a1da28a5b34f603750d6d6ee7a2b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 
 
 </div> 
