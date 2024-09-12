@@ -32,6 +32,7 @@
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://camo.githubusercontent.com/f0a750ad8250cf711f7a1da710cfc83a9c8a1da28a5b34f603750d6d6ee7a2b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
@@ -47,7 +48,6 @@
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img src="https://camo.githubusercontent.com/f0a750ad8250cf711f7a1da710cfc83a9c8a1da28a5b34f603750d6d6ee7a2b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 
 
 </div> 
