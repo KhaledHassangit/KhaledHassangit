@@ -8,7 +8,7 @@
    
    <!-- CV Button -->
    <a href="https://plum-penni-54.tiiny.site/" target="_blank" style="text-decoration: none;">
-     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white"  style="width:120px;" />
+     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white"  style="width:120px; height ="28px"; />
    </a>
 </div>
 
