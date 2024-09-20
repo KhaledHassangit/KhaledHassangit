@@ -1,8 +1,8 @@
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
    <h1>Hello there, I'm <span style="text-decoration: none; color: inherit;">Khaled</span></h1>
    
    <!-- Portfolio Button -->
-   <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank">
+   <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank" style="margin-bottom: 10px;">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" />
    </a>
    
