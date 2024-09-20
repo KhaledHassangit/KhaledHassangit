@@ -3,12 +3,12 @@
    
    <!-- Portfolio Button -->
    <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank" style="text-decoration: none; width: 50px; margin-bottom: 10px;">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="width: 100%;" />
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  />
    </a>
    
    <!-- CV Button -->
    <a href="https://plum-penni-54.tiiny.site/" target="_blank" style="text-decoration: none; width: 50px;">
-     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white" style="width: 100%;" />
+     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white" />
    </a>
 </div>
 
