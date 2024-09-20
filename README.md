@@ -1,14 +1,14 @@
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
    <h1>Hello there, I'm <span style="text-decoration: none; color: inherit;">Khaled</span></h1>
    
    <!-- Portfolio Button -->
-   <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank" style="display: block; margin-bottom: 10px;">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" />
+   <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank" style="text-decoration: none;=margin-bottom: 10px;">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  />
    </a>
    
    <!-- CV Button -->
-   <a href="https://plum-penni-54.tiiny.site/" target="_blank" style="display: block;">
-     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white" target="blank" />
+   <a href="https://plum-penni-54.tiiny.site/" target="_blank" style="text-decoration: none;">
+     <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white"  />
    </a>
 </div>
 
