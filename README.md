@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello there, I'm <span style="text-decoration: none; color: inherit;">Khaled</span></h1>
+   <h1>Hi, I'm <span style="text-decoration: none; color: inherit;">Khaled</span></h1>
    
    <!-- Portfolio Button -->
    <a href="https://portfolio-khaled-theta.vercel.app/" target="_blank" style="display: block; margin-bottom: 10px; text-decoration: none; ">
