@@ -49,7 +49,7 @@
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
    <img src="https://reactrouter.com/favicon-light.png" title="React Router DOM" alt="React Router DOM" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://authy.com/wp-content/uploads/npm-logo.png" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://logosandtypes.com/wp-content/uploads/2021/04/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
   <img src="https://d3jl769oy69y7b.cloudfront.net/2022/06/LF-Photo-Profile.png" title="React Lottie" alt="React Lottie" width="40" height="40"/>&nbsp;
