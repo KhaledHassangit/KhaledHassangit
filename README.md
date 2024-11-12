@@ -59,10 +59,10 @@
   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/jaredpalmer/formik/master/logo/formik-logo-256.png" title="Formik" alt="Formik" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/yup-2.svg" title="Yup" alt="Yup" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="Formik" alt="Formik" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/yup-2.svg" title="Yup" alt="Yup" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/60401043?s=200&v=4" title="Zod" alt="Zod" width="40" height="40"/>&nbsp;
-<img src="https://www.primefaces.org/wp-content/uploads/2020/12/primereact.svg" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>&nbsp;
+<img src="https://www.primefaces.org/wp-content/uploads/2020/12/primereact.svg" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>
 
 
 
