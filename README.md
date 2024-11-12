@@ -58,6 +58,12 @@
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+    <img src="https://react-hook-form.com/favicon.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
+  <img src="https://formik.org/favicon.ico" title="Formik" alt="Formik" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/6764957/86508716-b9c2d200-bda1-11ea-8b69-a4e8d863efbe.png" title="Yup" alt="Yup" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/60401043?s=280&v=4" title="Zod" alt="Zod" width="40" height="40"/>&nbsp;
+  <img src="https://www.primefaces.org/wp-content/uploads/2020/12/primereact-logo.png" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>&nbsp;
+
 
 
 </div> 
