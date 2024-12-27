@@ -46,22 +46,13 @@
 <img src="https://www.primefaces.org/wp-content/uploads/2017/09/primeng-transparent.png" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img 
-  src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" 
-  title="Next.js" 
-  alt="Next.js" 
-  width="40" 
-  height="40"
-/>
-
-
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
    <img src="https://reactrouter.com/favicon-light.png" title="React Router DOM" alt="React Router DOM" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8-Sm2raTojOSGHqn88igFLhmyIMAwcbhdA&s" title="Formik" alt="Formik" width="40" height="40"/>&nbsp;
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://logosandtypes.com/wp-content/uploads/2021/04/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>&nbsp;
