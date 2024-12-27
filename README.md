@@ -46,6 +46,13 @@
 <img src="https://www.primefaces.org/wp-content/uploads/2017/09/primeng-transparent.png" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img 
+  src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" 
+  title="Next.js" 
+  alt="Next.js" 
+  width="40" 
+  height="40"
+/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
    <img src="https://reactrouter.com/favicon-light.png" title="React Router DOM" alt="React Router DOM" width="40" height="40"/>&nbsp;
