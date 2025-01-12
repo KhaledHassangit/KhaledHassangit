@@ -45,7 +45,7 @@
 <img src="https://mui.com/static/logo.png" alt="Material UI Logo" width="40" height="40" title="Material UI" />
 <img src="https://www.primefaces.org/wp-content/uploads/2017/09/primeng-transparent.png" title="PrimeReact" alt="PrimeReact" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
