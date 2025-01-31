@@ -71,4 +71,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KhaledHassangit&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=KhaledHassangit&color=blue)
