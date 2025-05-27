@@ -7,7 +7,7 @@
    </a>
    
    <!-- CV Button -->
-   <a href="https://plum-penni-54.tiiny.site/](https://orange-bonnibelle-48.tiiny.site](https://drive.google.com/file/d/1IBaL9mOUor_X79Tn-ESTEmLZ8Om3hg25/view" target="_blank" style="display: block; text-decoration: none; ">
+   <a href="https://drive.google.com/file/d/1IBaL9mOUor_X79Tn-ESTEmLZ8Om3hg25/view" target="_blank" style="display: block; text-decoration: none; ">
      <img src="https://img.shields.io/badge/CV-F44336?style=for-the-badge&logo=google-drive&logoColor=white" target="blank" />
    </a>
 </div>
