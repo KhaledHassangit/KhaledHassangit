@@ -25,9 +25,8 @@
 
 #### 💻 &nbsp; About Me:
 <p align="center">
-  <h4>I'm Khaled Hassan 25 years old, an Enthusiastic and detail-oriented Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. 
-    Adept at creating visually appealing and intuitive websites. Proficient in HTML, CSS, JavaScript, Bootstrap, and React.js. Passionate about leveraging technology to enhance user experiences.
-</h4>
+  <h4>
+I'm Khaled Hassan, 25 years old, a Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. Skilled in React.js, Next.js, Tailwind CSS, TypeScript, Redux Toolkit, RTK Query, and React Query, with a passion for building modern, responsive, and user-friendly web applications.</h4>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHassangit&theme=dark)
