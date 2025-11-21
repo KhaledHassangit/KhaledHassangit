@@ -26,7 +26,7 @@
 #### 💻 &nbsp; About Me:
 <p align="center">
   <h4>
-I'm Khaled Hassan, 25 years old, a Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. Skilled in React.js, Next.js, Tailwind CSS, Bootstrap, TypeScript, Redux Toolkit, RTK Query, and React Query, passionate about building modern, responsive, and user-friendly web applications.
+I'm Khaled Hassan, 26 years old, a Front-End Web Developer with a Bachelor's degree in Computer Science from SVU University. Skilled in React.js, Next.js, Tailwind CSS, Bootstrap, TypeScript, Redux Toolkit, RTK Query, and React Query, passionate about building modern, responsive, and user-friendly web applications.
   </h4>
 </p>
 
