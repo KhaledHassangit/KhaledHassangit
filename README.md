@@ -23,7 +23,7 @@ I'm Khaled Hassan, 26 years old, a Front-End Web Developer with a Bachelor's deg
 </h4>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHassangit&layout=compact&theme=dark)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhaledHassangit&theme=dark)
 
 #### :hammer_and_wrench: Skills and Tools:
 <div align="center">
