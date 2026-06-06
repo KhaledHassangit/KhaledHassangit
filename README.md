@@ -64,9 +64,7 @@ I'm Khaled Hassan, 26 years old, a Front-End Web Developer with a Bachelor's deg
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![VS Code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge) 
-![Windsurf](https://img.shields.io/badge/windsurf-black?style=for-the-badge)
+
 
 </div>
 
